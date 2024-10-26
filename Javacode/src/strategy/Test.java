@@ -20,6 +20,7 @@ public class Test {
 		seminar.setSorter(sorter);
 		System.out.println(seminar.sort());
 		
+		
 		sorter = new NumberSorter();
 		seminar.setSorter(sorter);
 		System.out.println(seminar.sort());
